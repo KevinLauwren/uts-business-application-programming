@@ -1,0 +1,16 @@
+CARA MENGGUNAKAN PROGRAM [MANUAL]:
+
+Kedua Backend dan Frontend terdapat pada 1 solution di dalam folder "Restaurant"
+
+Saat memasuki Visual Studio, 
+dapat memilih untuk membuka program Admin (Backend)/ Ordering (Frontend)
+
+Login Admin:
+username = kevin
+password = 1234
+
+username = susan
+password = 09876
+
+untuk frontend, jika ingin melihat bill total pembaran setelah checkout, 
+dapat dibuka di program backend pada bagian "cetak bill"

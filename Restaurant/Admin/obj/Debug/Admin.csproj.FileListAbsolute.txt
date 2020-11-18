@@ -1,0 +1,15 @@
+D:\0. KULIAH\TERM 7\4. Business Application Programming\Coding C#\Restaurant\Admin\bin\Debug\Admin.exe.config
+D:\0. KULIAH\TERM 7\4. Business Application Programming\Coding C#\Restaurant\Admin\bin\Debug\Admin.exe
+D:\0. KULIAH\TERM 7\4. Business Application Programming\Coding C#\Restaurant\Admin\bin\Debug\Admin.pdb
+D:\0. KULIAH\TERM 7\4. Business Application Programming\Coding C#\Restaurant\Admin\obj\Debug\Admin.csprojAssemblyReference.cache
+D:\0. KULIAH\TERM 7\4. Business Application Programming\Coding C#\Restaurant\Admin\obj\Debug\Admin.FormLogin.resources
+D:\0. KULIAH\TERM 7\4. Business Application Programming\Coding C#\Restaurant\Admin\obj\Debug\Admin.Properties.Resources.resources
+D:\0. KULIAH\TERM 7\4. Business Application Programming\Coding C#\Restaurant\Admin\obj\Debug\Admin.csproj.GenerateResource.cache
+D:\0. KULIAH\TERM 7\4. Business Application Programming\Coding C#\Restaurant\Admin\obj\Debug\Admin.csproj.CoreCompileInputs.cache
+D:\0. KULIAH\TERM 7\4. Business Application Programming\Coding C#\Restaurant\Admin\obj\Debug\Admin.exe
+D:\0. KULIAH\TERM 7\4. Business Application Programming\Coding C#\Restaurant\Admin\obj\Debug\Admin.pdb
+D:\0. KULIAH\TERM 7\4. Business Application Programming\Coding C#\Restaurant\Admin\obj\Debug\Admin.FormAdminPage.resources
+D:\0. KULIAH\TERM 7\4. Business Application Programming\Coding C#\Restaurant\Admin\obj\Debug\Admin.FormEditMenu.resources
+D:\0. KULIAH\TERM 7\4. Business Application Programming\Coding C#\Restaurant\Admin\obj\Debug\Admin.FormDeletedMenu.resources
+D:\0. KULIAH\TERM 7\4. Business Application Programming\Coding C#\Restaurant\Admin\obj\Debug\Admin.FormBill.resources
+D:\0. KULIAH\TERM 7\4. Business Application Programming\Coding C#\Restaurant\Admin\obj\Debug\Admin.FormPenjualan.resources

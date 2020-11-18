@@ -1,0 +1,12 @@
+D:\0. KULIAH\TERM 7\4. Business Application Programming\Coding C#\Restaurant\Ordering\bin\Debug\Ordering.exe.config
+D:\0. KULIAH\TERM 7\4. Business Application Programming\Coding C#\Restaurant\Ordering\bin\Debug\Ordering.exe
+D:\0. KULIAH\TERM 7\4. Business Application Programming\Coding C#\Restaurant\Ordering\bin\Debug\Ordering.pdb
+D:\0. KULIAH\TERM 7\4. Business Application Programming\Coding C#\Restaurant\Ordering\obj\Debug\Ordering.csprojAssemblyReference.cache
+D:\0. KULIAH\TERM 7\4. Business Application Programming\Coding C#\Restaurant\Ordering\obj\Debug\Ordering.Properties.Resources.resources
+D:\0. KULIAH\TERM 7\4. Business Application Programming\Coding C#\Restaurant\Ordering\obj\Debug\Ordering.csproj.GenerateResource.cache
+D:\0. KULIAH\TERM 7\4. Business Application Programming\Coding C#\Restaurant\Ordering\obj\Debug\Ordering.csproj.CoreCompileInputs.cache
+D:\0. KULIAH\TERM 7\4. Business Application Programming\Coding C#\Restaurant\Ordering\obj\Debug\Ordering.exe
+D:\0. KULIAH\TERM 7\4. Business Application Programming\Coding C#\Restaurant\Ordering\obj\Debug\Ordering.pdb
+D:\0. KULIAH\TERM 7\4. Business Application Programming\Coding C#\Restaurant\Ordering\obj\Debug\Ordering.FormOrdering.resources
+D:\0. KULIAH\TERM 7\4. Business Application Programming\Coding C#\Restaurant\Ordering\obj\Debug\Ordering.FormNomorTable.resources
+D:\0. KULIAH\TERM 7\4. Business Application Programming\Coding C#\Restaurant\Ordering\obj\Debug\Ordering.FormThankyou.resources
